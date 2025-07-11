@@ -123,4 +123,4 @@ This project offers a basic hands-on experience with ESP32, Arduino IDE, and Bly
 
 ## 🧑‍💻 Author
 
-Made by [Your Name] as a basic IoT/Embedded project.
+Made by Utkarsh Jha as a basic IoT/Embedded project.
