@@ -17,7 +17,7 @@ Designed as an introductory project, it helps beginners understand how embedded 
 
 ---
 
-This is the overall setup. ![ESP32 Blynk Notification System](images/ESP32-Blynk-Notification-System.png)
+This is the overall setup ![ESP32 Blynk Notification System](ESP32-Blynk-Notification-System.png)
 
 
 ## 📚 Required Libraries
