@@ -1,8 +1,5 @@
-# ESP32-Blynk-Notification-System-
+# ESP32-Blynk-Notification-System
 A beginner-friendly IoT project using ESP32, push buttons, and Blynk IoT to send real-time notifications. When a student or faculty presses a button, a message is sent to the Blynk app. Ideal for smart door alerts and learning ESP32 with Arduino and cloud integration.
-
-
-# ESP32 Blynk Notification System
 
 This project demonstrates a basic Internet of Things (IoT) system using an ESP32 NodeMCU, two push buttons, and the Blynk IoT platform to create a smart notification system. When either button is pressed—one assigned to faculty, the other to students—a corresponding alert is instantly sent to a mobile device via the Blynk app. The message reads either “Faculty is waiting outside” or “Student is waiting outside.”
 
@@ -19,6 +16,9 @@ Designed as an introductory project, it helps beginners understand how embedded 
 - Arduino IDE
 
 ---
+
+This is the overall setup ![Security System](images/Security%20System%20with%20Face%20Recognition.png)
+
 
 ## 📚 Required Libraries
 
